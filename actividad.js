@@ -17,8 +17,8 @@ function Fondo(inputDiv){
 }
 
 function Borrar(inputDiv){
-	inputDiv.parentNode.style.backgroundColor = 'black';
-	inputDiv.parentNode.style.color = 'white';
+	inputDiv.parentNode.style.backgroundColor = 'white';
+	inputDiv.parentNode.style.color = 'black';
 }
 
 
